@@ -31,8 +31,8 @@ github_username: a8dx
 
 # Build settings
 remote_theme: broccolini/swiss
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
