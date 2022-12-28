@@ -27,15 +27,19 @@ description: Agriculture, climate change, economics, satellites, animals, and a 
 baseurl: ''  # the subpath of your site, e.g. /blog
 twitter_username: AnthonyL_DAgost
 github_username: a8dx
-theme: minima
+
 #excerpt_separator: <!--more-->
 
 # Build settings
 #markdown: kramdown
+theme: minima
+
 #remote_theme: benbalter/retlab 
 #broccolini/swiss
-#plugins:
-#  - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
