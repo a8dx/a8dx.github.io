@@ -30,7 +30,7 @@ github_username: a8dx
 #excerpt_separator: <!--more-->
 
 # Build settings
-theme: jekyll-athena
+remote_theme: jekyll-athena
 plugins:
   - jekyll-feed
 
