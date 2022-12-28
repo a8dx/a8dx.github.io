@@ -27,7 +27,7 @@ description: Agriculture, climate change, economics, satellites, animals, and a 
 baseurl: ''  # the subpath of your site, e.g. /blog
 twitter_username: AnthonyL_DAgost
 github_username: a8dx
-theme: default
+theme: minima
 #excerpt_separator: <!--more-->
 
 # Build settings
