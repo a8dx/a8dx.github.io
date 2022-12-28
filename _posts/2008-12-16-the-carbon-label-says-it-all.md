@@ -1,0 +1,21 @@
+---
+id: 28
+title: 'The (carbon) label says it all'
+date: '2008-12-16T05:36:56+00:00'
+author: andagostino
+layout: post
+guid: 'http://pathindependence.wordpress.com/?p=28'
+permalink: /the-carbon-label-says-it-all/
+categories:
+    - 'climate change'
+---
+
+Leaving the rest of the country in its carbon-constrained dust yet again, California introduced the [Carbon Labeling Act of 2009](http://leginfo.ca.gov/pub/09-10/bill/asm/ab_0001-0050/ab_19_bill_20081201_introduced.pdf) earlier this month which will require the California Air Resources Board (CARB) to “develop and implement a program for the **voluntary** assessment, verification, and standardized labeling of the carbon footprint, as defined, of consumer products sold in this state.”
+
+Now stay in your seat, AB19 says nothing about a future shift towards regulation, which would likely not be embraced by environmentalists anyway considering the limited transparency of assumptions and model constructions to be expected from a consumer product label. This will especially be true in the event that CA actually permits input-output based hybrid life cycle assessment (LCA) models as these still have a ways to go towards seeing resolution at the level of product-categories. This is, however, a great move in the direction of accessible GHG information which can lead to environmentally superior decision-making so long as companies are using standardized accounting/modeling procedures and the verification methods are watertight.
+
+It will also be interesting to find out what the range of products that falls under the “consumer goods” aegis will be. From the bill’s text, the focus is on retail consumer goods, as in supermarket / department store items in the hopes of swaying consumer preferences, but do the EPA estimated mileage stickers on new vehicles affect purchasing habits? Not enough to alter a consistent [year-on-year aggregate oil demand increase](http://www.eia.doe.gov/pub/oil_gas/petroleum/analysis_publications/oil_market_basics/dem_image_us_cons_sector.htm) for the past several decades, save for a few OPEC-related blips. But we’ve also been blessed with perennially low gas prices until recent memory and political rhetoric in this area will hopefully translate into action under a new administration.
+
+The bill does show that the state is aware that companies are voluntarily looking to assess the GHG impacts of their products and are willing to shell out the money to do so, either because of the improved marketing this facilitates, the anticipated cost savings of reduced energy consumption, responding to shareholder pressure, or any of several other drivers. The usually dismissed reason of “genuine environmental stewardship” should not be cast off so quickly here, especially with the great enthusiasm with which the private sector has greeted programs like the [Carbon Trust/UK Defra’s PAS 2050](http://www.pas2050.com) and the [WRI/WBCSD’s new product-level guidelines](http://www.ghgprotocol.org/standards/product-and-supply-chain-standard) work.
+
+Californians – don’t get too haughty yet – something similar is happening on the other side of the pond where [EU leaders are also discussing](http://www.euractiv.com/en/sustainability/eu-consider-co2-labelling-products/article-177789) methods to promote sustainable consumption and production (SCP). With the rise of greenhouse gas registries at the corporate/facility-level ([California Climate Action Registry](http://www.climateregistry.org/), [Carbon Disclosure Project](http://www.cdproject.net)), these initiatives may give just the kick needed to start product-level registries. While I don’t expect such website to host the most scintillating information for the average consumer, the real value-add is in high-volume procurement. Imagine the prospects of major purchasers like US government (name agency of your choice) or Wal-Mart having complete information on the life cycle GHG emissions from competing products and sustainability becoming a factor in procurement decisions (as is already becoming the case)? Those actions won’t in themselves bring us to 80% below 199o’s CO2e emissions levels by 2050, but will definitely form a requisite component.
