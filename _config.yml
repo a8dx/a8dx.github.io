@@ -30,9 +30,8 @@ github_username: a8dx
 #excerpt_separator: <!--more-->
 
 # Build settings
-remote_theme: broccolini/jekyll-athena
+remote_theme: broccolini/athena
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
