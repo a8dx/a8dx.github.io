@@ -21,10 +21,7 @@
 url: 'https://anthonylouisdagostino.com'
 name: Anthony Louis D'Agostino
 description: Research Economist
-
-
-
-title: Anthony Louis D'Agostino, PhD
+#title: Anthony Louis D'Agostino, PhD
 email: adagostino@mathematica-mpr.com
 description: Agriculture, climate change, economics, satellites, animals, and a hodgepodge of CRAY ephemera.
 baseurl: ''  # the subpath of your site, e.g. /blog
