@@ -1,6 +1,6 @@
 ---
 id: 1366
-title: 'Cleaning Berkeley Earth&#8217;s BEST Gridded Daily Temperature Data'
+title: "Cleaning Berkeley Earth's BEST Gridded Daily Temperature Data"
 date: '2018-12-12T09:33:41+00:00'
 author: andagostino
 layout: post

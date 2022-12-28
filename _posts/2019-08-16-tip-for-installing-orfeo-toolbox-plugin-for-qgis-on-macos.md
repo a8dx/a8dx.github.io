@@ -2,15 +2,17 @@
 id: 1467
 title: 'Tip for Installing Orfeo Toolbox Plugin for QGIS on MacOS'
 date: '2019-08-16T02:47:08+00:00'
-author: andagostino
+author: Anthony Louis D'Agostino
 layout: post
 guid: 'https://anthonylouisdagostino.com/?p=1467'
 permalink: /tip-for-installing-orfeo-toolbox-plugin-for-qgis-on-macos/
-image: /wp-content/uploads/2019/08/logo.png
+image: wp-content/uploads/2019/08/logo.png
 categories:
     - Computing
     - GIS
 ---
+
+![image](/wp-content/uploads/2019/08/logo.png)
 
 Last weekend I spent longer than I care to admit trying to get [Orfeo Toolbox](https://www.orfeo-toolbox.org/CookBook/index_TOC.html) (OTB) to play nicely with QGIS on MacOS High Sierra. I tried QGIS 3.4, the stable version, and I tried 3.8, the latest version, and scoured every forum and installation tutorial I could find for activating the tools and having them appear in QGIS’ Processing Toolbox. Once they appear, ensuring they actually work is a separate issue. One piece of advice seems to have made all the difference.
 

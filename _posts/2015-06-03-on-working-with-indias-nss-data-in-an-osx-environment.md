@@ -1,6 +1,6 @@
 ---
 id: 153
-title: 'On Working with India&#8217;s NSS Data in an OS/X Environment'
+title: "On Working with India's NSS Data in an OS/X Environment"
 date: '2015-06-03T17:49:26+00:00'
 author: admin
 layout: post

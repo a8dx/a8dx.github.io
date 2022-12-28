@@ -1,6 +1,6 @@
 ---
 id: 35
-title: 'Products&#8230; or product constellations?'
+title: "Products or product constellations?"
 date: '2008-12-19T05:34:48+00:00'
 author: andagostino
 layout: post

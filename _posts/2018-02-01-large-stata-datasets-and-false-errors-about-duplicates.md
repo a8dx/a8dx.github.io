@@ -1,6 +1,6 @@
 ---
 id: 1299
-title: 'Large Stata Datasets and False Errors about &#8216;Duplicates&#8217;'
+title: "Large Stata Datasets and False Errors about 'Duplicates'"
 date: '2018-02-01T01:49:42+00:00'
 author: andagostino
 layout: post

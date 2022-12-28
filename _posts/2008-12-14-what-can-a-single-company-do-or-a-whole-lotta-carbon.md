@@ -1,6 +1,6 @@
 ---
 id: 11
-title: 'What can a single company do? or, &#8220;A whole lotta carbon&#8221;'
+title: 'What can a single company do? or, A whole lotta carbon'
 date: '2008-12-14T19:04:14+00:00'
 author: andagostino
 layout: post
@@ -9,6 +9,7 @@ permalink: /what-can-a-single-company-do-or-a-whole-lotta-carbon/
 categories:
     - Uncategorized
 ---
+
 
 I’ve been spending much of the past few days reviewing the [CDP6 responses](http://www.cdproject.net) that include Scope 3 “indirect” emissions. As a brief backgrounder, the Scope 1, 2, and 3 terminology was adopted by the [Greenhouse Gas Protocol](http://www.ghgprotocol.org/standards/corporate-standard)‘s Corporate Standard, and revised as “direct” and “indirect” emissions in the [ISO 14064](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=38381) documents. The emissions caused by facilities owned and operated by a company are classified as Scope 1, purchased electricity and steam as Scope 2, and emissions related to a company’s activities but not taking place at owned or operated facilities are Scope 3. You could therefore refer to the Scope 3 inventory as the emissions due to a company’s supply chain, both upstream and downstream.
 

@@ -1,6 +1,6 @@
 ---
 id: 1292
-title: 'Identify nth-Degree Neighbors Using R&#8217;s Simple Features Package, Simply'
+title: "Identify nth-Degree Neighbors Using R's Simple Features Package, Simply"
 date: '2018-01-19T21:21:32+00:00'
 author: andagostino
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1090
-title: 'Recent Trends in Women&#8217;s Employment in Rural India'
+title: "Recent Trends in Women's Employment in Rural India"
 date: '2017-10-01T06:29:22+00:00'
 author: admin
 layout: post

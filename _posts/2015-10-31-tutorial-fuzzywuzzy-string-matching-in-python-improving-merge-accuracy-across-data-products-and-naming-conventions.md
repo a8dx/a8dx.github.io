@@ -1,8 +1,8 @@
 ---
 id: 173
-title: 'Tutorial: FuzzyWuzzy String Matching in Python &#8211; Improving Merge Accuracy Across Data Products and Naming Conventions'
+title: 'Tutorial: FuzzyWuzzy String Matching in Python -- Improving Merge Accuracy Across Data Products and Naming Conventions'
 date: '2015-10-31T19:18:20+00:00'
-author: admin
+author: Anthony Louis D'Agostino
 layout: post
 guid: 'https://pathindependence.wordpress.com/?p=173'
 permalink: /tutorial-fuzzywuzzy-string-matching-in-python-improving-merge-accuracy-across-data-products-and-naming-conventions/
@@ -10,7 +10,7 @@ sharing_disabled:
     - '1'
 geo_public:
     - '0'
-image: /wp-content/uploads/2015/10/screen-shot-2015-10-31-at-1-31-27-pm.png
+image: wp-content/uploads/2015/10/screen-shot-2015-10-31-at-1-31-27-pm.png
 categories:
     - Computing
     - Data
@@ -35,7 +35,7 @@ I’ve included a [sample Python script](https://www.dropbox.com/s/e9k5384k9mo1u
 1. Take two datasets and export the variables you wish to merge as distinct spreadsheets. In this example, I am interested in merging the names of district-state pairs from “ICRISAT\_Meso\_Names.csv” and “District\_Records\_1971\_Clean.csv.” They need not possess the same variable names since the function &lt;districtMatch&gt; takes as input arguments the district and state variable names from either input file. The former is a complete dataset, the latter a list of administrative names for a 1971 shapefile. Once these two are merged, I’ll be able to project variable values into a map.
 2. I run the &lt;districtMatch&gt; function on these two files which generates “ICRI\_1971\_DistrictMatches.csv” into /Matched\_Results. The function’s default is to output the top 3 matches, but you can edit this.
 3. If there’s a perfect match, the “perfect\_match” field in the DistrictMatches file is given a “True” value. You need not spend any more time on those entries since they will merge correctly. You’ll only need to focus on “False” matches and will need to do this manually. To save time, you may even sort on “perfect\_match”, rather than hunt-and-peck for Falses.
-4. To address the False matches, I generate two new variables in ICRI\_1971\_DistrictMatches.csv and save it as an XLSX file to retain highlighting/cell formatting. 
+4. To address the False matches, I generate two new variables in ICRI\_1971\_DistrictMatches.csv and save it as an XLSX file to retain highlighting/cell formatting.
     1. “best\_imperfect\_match” – identifies which match column is in fact correct. (i.e., 2 refers to ‘match2’, 3 to ‘match3’, etc.)
     2. “explicit\_match” – in the event the match is not captured in the top 3 match hits, I’ll have to manually identify the correct match and type it in.
 5. Once I’ve made all the necessary edits, I can then import this XLSX file into Stata and run some basic code to get the two datasets merge properly. I provide example code in this [Stata “fuzzywuzzy\_Merge\_Sample.do”](https://www.dropbox.com/s/e9k5384k9mo1u2c/Fuzzy_Wuzzy.zip?dl=0).

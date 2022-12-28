@@ -1,6 +1,6 @@
 ---
 id: 253
-title: 'What We&#8217;re Watching &#8211; Muralidharan and Basu'
+title: "What We're Watching: Muralidharan and Basu"
 date: '2016-02-25T02:20:49+00:00'
 author: admin
 layout: post

@@ -23,7 +23,9 @@ The problem I’ve had is automating a process which captures all table filename
 
 Here’s the alternative, and one I think which greatly reduces your chances of errors. Use a single-line awk command in Terminal to generate a file which collects object-specific LaTeX code which can then be easily added to your master TeX file.
 
-> ls \*.tex | awk ‘{printf “\\\\input{%s}}\\n”, $1}’ &gt; inputs.tex
+{% raw %}
+> ls \*.tex | awk ‘{printf “\\\\input{%s/}}\\n”, $1}’ &gt; inputs.tex
+{% endraw %}
 
 In this example, since we search for \*.tex, we’re presuming you’ve already cd’ed to the path with the table files. Now I wanted a couple of extra options:
 
