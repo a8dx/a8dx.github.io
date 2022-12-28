@@ -30,8 +30,8 @@ github_username: a8dx
 #excerpt_separator: <!--more-->
 
 # Build settings
-markdown: kramdown
-remote_theme: benbalter/retlab 
+#markdown: kramdown
+#remote_theme: benbalter/retlab 
 #broccolini/swiss
 #plugins:
 #  - jekyll-remote-theme
