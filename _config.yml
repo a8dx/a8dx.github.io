@@ -18,24 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: 'https://anthonylouisdagostino.com'
-name: Anthony Louis D'Agostino
-description: Research Economist
+
+#description: Research Economist
 #title: Anthony Louis D'Agostino, PhD
-email: adagostino@mathematica-mpr.com
-description: Agriculture, climate change, economics, satellites, animals, and a hodgepodge of CRAY ephemera.
-baseurl: ''  # the subpath of your site, e.g. /blog
-twitter_username: AnthonyL_DAgost
-github_username: a8dx
+#email: adagostino@mathematica-mpr.com
+#description: Agriculture, climate change, economics, satellites, animals, and a hodgepodge of CRAY ephemera.
+#baseurl: ''  # the subpath of your site, e.g. /blog
+#twitter_username: AnthonyL_DAgost
+#github_username: a8dx
+
+
+title: Anthony Louis D'Agostino, PhD
+author: John Doe
+description: 'Research Economist, Mathematica'
+baseurl: "/posts"
+url: 'https://anthonylouisdagostino.com'
+
 
 #excerpt_separator: <!--more-->
 
 # Build settings
-#markdown: kramdown
-remote_theme: yous/whiteglass
-
-#remote_theme: benbalter/retlab 
-#broccolini/swiss
+kramdown:
+  gfm_quirks: [paragraph_end]
+theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
@@ -43,7 +48,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
-paginate: 5
+paginate: 10
 
 jekyll-archives:
   enabled:

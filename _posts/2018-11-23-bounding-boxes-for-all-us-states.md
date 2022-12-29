@@ -2,7 +2,7 @@
 id: 1338
 title: 'Bounding Boxes for All US States'
 date: '2018-11-23T09:13:00+00:00'
-author: andagostino
+author: Anthony Louis D'Agostino
 layout: post
 guid: 'https://anthonylouisdagostino.com///?p=1338'
 permalink: /bounding-boxes-for-all-us-states/

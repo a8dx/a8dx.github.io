@@ -2,7 +2,7 @@
 id: 760
 title: 'Converting .TXT/.GRD Climate Data Files to netCDF Format'
 date: '2017-10-08T03:49:22+00:00'
-author: andagostino
+author: Anthony Louis D'Agostino
 layout: post
 guid: 'https://anthonylouisdagostino.com///?p=760'
 permalink: /converting-txt-grd-climate-data-to-netcdf/
@@ -16,11 +16,12 @@ categories:
     - R
 ---
 
-Climate data is packaged and distributed in <del>too</del> many file formats. Under ideal circumstances, you could easily convert data from formats you’re not familiar with (and don’t have scripts to handle), to those that you do. This is why analogous tools like [Stat/Transfer](http://www.stattransfer.com/) for statistical databases often used by social scientists, are so helpful. If a stranger on the street gives you SPSS data, you can on-the-fly convert it to something which is Stata-readable. Albeit, the value of software like Stat/Transfer diminishes as more stat packages have comprehensive in-built conversion tools, like R’s `<a href="https://cran.r-project.org/web/packages/readstata13/README.html" rel="noopener noreferrer" target="_blank">readstata13</a>` and `<a href="http://pandas.pydata.org/pandas-docs/version/0.20/generated/pandas.read_stata.html">read_stata</a>` in pandas. Getting similar functionality with climate data requires a bit more lift.
+Climate data is packaged and distributed in <del>too</del> many file formats. Under ideal circumstances, you could easily convert data from formats you’re not familiar with (and don’t have scripts to handle), to those that you do. This is why analogous tools like [Stat/Transfer](http://www.stattransfer.com/) for statistical databases often used by social scientists, are so helpful. If a stranger on the street gives you SPSS data, you can on-the-fly convert it to something which is Stata-readable. Albeit, the value of software like Stat/Transfer diminishes as more stat packages have comprehensive in-built conversion tools, like R’s [`readstata13`](https://cran.r-project.org/web/packages/readstata13/README.html){:target="_blank"} and [`read stata`](http://pandas.pydata.org/pandas-docs/version/0.20/generated/pandas.read_stata.html){:target="_blank"} in pandas. Getting similar functionality with climate data requires a bit more lift.\\
 
-This post is a tutorial and link to scripts that can convert the .TXT/.GRD file combination format used by the [India Meteorological Department (IMD)](http://www.imd.gov.in/Welcome%20To%20IMD/Welcome.php) into formats that are more usable for people working with climate data. And if you’re not trained in the sciences, but rather as an economist, figuring out how to use this data often comes with its own frustrations. I hope this helps.
++
+  This post is a tutorial and link to scripts that can convert the .TXT/.GRD file combination format used by the [India Meteorological Department [IMD](http://www.imd.gov.in/){:target="_blank"} into formats that are more usable for people working with climate data. And if you’re not trained in the sciences, but rather as an economist, figuring out how to use this data often comes with its own frustrations. I hope this helps. \\
 
-I rely on the [Climate Data Operators (CDO)](https://code.mpimet.mpg.de/projects/cdo) to do the heavy lifting in my climate data workflow and work almost exclusively with the [netCDF4 file format.](https://www.unidata.ucar.edu/software/netcdf/) Since IMD provides their climate data in .TXT/.GRD format, extra work is required to turn those files into more familiar formats. Here we’ll convert it to netCDF, which after processing can then be exported to a spreadsheet.
+  I rely on the [Climate Data Operators [CDO](https://code.mpimet.mpg.de/projects/cdo){:target="_blank"} to do the heavy lifting in my climate data workflow and work almost exclusively with the [netCDF4 file format.](https://www.unidata.ucar.edu/software/netcdf/){:target="_blank"} Since IMD provides their climate data in .TXT/.GRD format, extra work is required to turn those files into more familiar formats. Here we’ll convert it to netCDF, which after processing can then be exported to a spreadsheet.
 
 ## Data Setup and Processing Steps
 

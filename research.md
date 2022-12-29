@@ -14,6 +14,7 @@ switch_like_status:
 sharing_disabled:
     - '1'
     - '1'
+permalink: /research/
 ---
 
 **Reports:**
