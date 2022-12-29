@@ -37,9 +37,23 @@ remote_theme: yous/whiteglass
 #remote_theme: benbalter/retlab 
 #broccolini/swiss
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+  - jekyll-archives
   - jekyll-paginate
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
