@@ -29,7 +29,7 @@
 
 
 title: Anthony Louis D'Agostino, PhD
-author: John Doe
+author: Anthony Louis D'Agostino
 description: 'Research Economist, Mathematica'
 #baseurl: "/posts"
 url: 'https://anthonylouisdagostino.com'
@@ -40,6 +40,8 @@ url: 'https://anthonylouisdagostino.com'
 # Build settings
 kramdown:
   gfm_quirks: [paragraph_end]
+#theme: jekyll-whiteglass
+# comment out when pushing to GH
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives

@@ -3,11 +3,13 @@
 main:
   - title: "Home"
     url: /index.html
-  - title: "About"
-    url: /about/
-  - title: "Archives"
-    url: /archives/
-  - title: "RIYL"
-    url: /riyl/
   - title: "Research"
     url: /research/
+  - title: "Blog"
+    url: /archives/
+  - title: "Resources"
+    url: /resources/
+  - title: "RIYL"
+    url: /riyl/
+  - title: "About"
+    url: /about/
