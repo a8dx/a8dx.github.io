@@ -31,7 +31,7 @@
 title: Anthony Louis D'Agostino, PhD
 author: John Doe
 description: 'Research Economist, Mathematica'
-baseurl: "/posts"
+#baseurl: "/posts"
 url: 'https://anthonylouisdagostino.com'
 
 
