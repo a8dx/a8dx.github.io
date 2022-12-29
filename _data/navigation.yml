@@ -2,7 +2,7 @@
 # pages in order as they should show up.
 main:
   - title: "Home"
-    url: ''
+    url: /index.html
   - title: "About"
     url: /about/
   - title: "Archives"
