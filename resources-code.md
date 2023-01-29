@@ -75,8 +75,7 @@ This is a curated list of software/tools/resource guides that I have found usefu
 - [stata\_kernel](https://github.com/kylebarron/stata_kernel) – run Stata in a Jupyter notebook\
 <br>
 
-## **\[Household/Enterprise\] Survey Data Collection**
-
+-
 - [Survey Solutions](https://mysurvey.solutions/)\
 <br>
 
