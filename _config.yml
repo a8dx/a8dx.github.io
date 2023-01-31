@@ -61,6 +61,7 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+google_analytics: G-N5L7PY4RRE
 
 # Exclude from processing.
 # The following items will not be processed, by default.
