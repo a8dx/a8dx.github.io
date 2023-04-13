@@ -5,6 +5,7 @@ author: Anthony Louis D'Agostino
 permalink: /about/
 ---
 
+### [Curriculum Vitae (CV)](src="/data_files/ALDAgostino-CV_Short.pdf"){:target="_blank"}
 
 I am a Research Economist in the International division at [Mathematica.](https://www.mathematica.org/){:target="_blank"} My research interests span rural climate impacts, urban violence reduction interventions, environmental health, and the use of geospatial data to monitor environmental change, economic development, and the effects of large-scale infrastructure projects.\
 <br>
