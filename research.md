@@ -21,14 +21,14 @@ permalink: /research/
 
 <ol reversed> 
 
-<li> Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” <em>Tropical Diseases, Travel Medicine and Vaccines</em>, vol. 11, no. 24, 2025.<a href=https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf target="_blank">(PDF)</a></li>
+<li> Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” <em>Tropical Diseases, Travel Medicine and Vaccines</em>, vol. 11, no. 24, 2025.<a href='https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf' target="_blank">(PDF)</a></li>
 <br>
 
 
-<li>Elders, Akiko, Mark Caroll, Christopher Neigh, Anthony Louis D’Agostino, Christopher Ksoll, and Margaret Wooten. “Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-Day Sentinel-2.” <em>Remote Sensing Applications: Society and Environment</em>, vol. 27, 2022. <a href=https://a8dx.github.io/publications/Elders et al 2022.pdf target="_blank">(PDF)</a></li>
+<li>Elders, Akiko, Mark Caroll, Christopher Neigh, Anthony Louis D’Agostino, Christopher Ksoll, and Margaret Wooten. “Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-Day Sentinel-2.” <em>Remote Sensing Applications: Society and Environment</em>, vol. 27, 2022. <a href='https://a8dx.github.io/publications/Elders et al 2022.pdf' target="_blank">(PDF)</a></li>
 <br>
 
-<li>D’Agostino, Anthony Louis, and Wolfram Schlenker. “Recent Weather Fluctuations and Agricultural Yields: Implications for Climate Change.” <em>Agricultural Economics</em>, vol. 47, no. S1, 2016, pp. 159-171. <a href=https://a8dx.github.io/publications/DAgostino and Schlenker 2016.pdf target="_blank">(PDF)</a></li>
+<li>D’Agostino, Anthony Louis, and Wolfram Schlenker. “Recent Weather Fluctuations and Agricultural Yields: Implications for Climate Change.” <em>Agricultural Economics</em>, vol. 47, no. S1, 2016, pp. 159-171. <a href='https://a8dx.github.io/publications/DAgostino and Schlenker 2016.pdf' target="_blank">(PDF)</a></li>
 <br>
 
 <li>D'Agostino, Anthony Louis, Johannes Urpelainen, and Peter Lund. "The Business of Distributed Solar Power: A Comparative Case Study of Centralized Charging Stations and Solar Microgrids." <em>Wiley Interdisciplinary Reviews: Energy and Environment</em>, vol. 5, no. 6, 2016, pp. 640-648. <a href="" target="_blank">(PDF)</a></li>
@@ -99,7 +99,7 @@ permalink: /research/
 <li>D'Agostino, Anthony Louis, Josh Meuth Alldredge, Hailey Hannigan, Matt Sloan, and Ksenia Miliutinskaia. "Independent Evaluation of the Kosovo Threshold Program Transparent and Accountable Governance (TAG) Project: Evaluation Design Report." Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica, December 2022. <a href="" target="_blank">(PDF)</a></li>
 <br>
 
-<li>D'Agostino, Anthony Louis, Jacqueline Shieh, and Kristen Velyvis. "Final Report for the Evaluation of the ENRM Project in Malawi. Volume II: The Weed and Sediment Management Activity, Environmental Trust, and Overall Project Evaluations." Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica, September 2022. <a href="https://a8dx.github.io/publications/Malawi_ENRM_Final_Eval_Vol_2-1" target="_blank">(PDF)</a></li>
+<li>D'Agostino, Anthony Louis, Jacqueline Shieh, and Kristen Velyvis. "Final Report for the Evaluation of the ENRM Project in Malawi. Volume II: The Weed and Sediment Management Activity, Environmental Trust, and Overall Project Evaluations." Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica, September 2022. <a href="https://a8dx.github.io/publications/Malawi_ENRM_Final_Eval_Vol_2-1.pdf" target="_blank">(PDF)</a></li>
 <br>
 
 <li>D'Agostino, Anthony Louis, Christopher Ksoll, and Margo Berends. "Niger Irrigation and Market Access Project: Evaluation Design Report for Small-Scale Irrigation Activities and Complementary Investments in the Dosso-Gaya Region." Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica, June 2021. <a href="https://a8dx.github.io/publications/Mathematica - MCC Niger IMAP Evaluation Design Report - Dosso-Gaya" target="_blank">(PDF)</a></li>
