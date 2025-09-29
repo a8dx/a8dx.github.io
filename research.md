@@ -21,7 +21,7 @@ permalink: /research/
 
 <ol reversed> 
 
-<li> Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” <em>Tropical Diseases, Travel Medicine and Vaccines</em>, vol. 11, no. 24, 2025.<a href='https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf' target="_blank">(PDF)</a></li>
+<li> Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” <em>Tropical Diseases, Travel Medicine and Vaccines</em>, vol. 11, no. 24, 2025. <a href='https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf' target="_blank">(PDF)</a></li>
 <br>
 
 
