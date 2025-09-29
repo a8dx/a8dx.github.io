@@ -22,7 +22,7 @@ permalink: /research/
 
 <ol reversed> 
 
-<li>Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” *Tropical Diseases, Travel Medicine and Vaccines*, vol. 11, no. 24, 2025. ([PDF])(https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf){:target="_blank"}</li>\
+<li>Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” *Tropical Diseases, Travel Medicine and Vaccines*, vol. 11, no. 24, 2025. ([PDF](https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf){:target="_blank"})</li>\
 <br>
 
 <li>Elders, Akiko, Mark Caroll, Christopher Neigh, Anthony Louis D’Agostino, Christopher Ksoll, and Margaret Wooten. “Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-Day Sentinel-2.” *Remote Sensing Applications: Society and Environment*, vol. 27, 2022. ([PDF])(https://a8dx.github.io/publications/Elders et al 2022.pdf){:target="_blank"}</li>\
