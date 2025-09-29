@@ -1,7 +1,7 @@
 ---
 id: 64
 title: Research
-date: '2014-12-15T23:10:41+00:00'
+date: '2025-09-27T23:10:41+00:00'
 author: andagostino
 layout: page
 guid: 'http://pathindependence.wordpress.com/?page_id=64'
@@ -20,38 +20,40 @@ permalink: /research/
 **Journal Articles:**\
 <br>
 
-Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” *Tropical Diseases, Travel Medicine and Vaccines*, vol. 11, no. 24, 2025. [PDF](#){:target="_blank"}\
+0. Keshaviah, Aparna, Agha Ali Akram, Dheeya Rizmie, Ian Raxter, Rezaul Hasan, Ziaur Rahman, Afroza Jannat Suchana, Farjana Jahan, Aninda Rahman, Mahbubur Rahman, Mahbubur Rahman, Megan B. Diamond, and Anthony Louis D’Agostino. “A Cost-Benefit Analysis of Using Wastewater Monitoring to Guide Typhoid Vaccine Campaigns.” *Tropical Diseases, Travel Medicine and Vaccines*, vol. 11, no. 24, 2025. [PDF](https://a8dx.github.io/publications/A cost-benefit analysis of using wastewater monitoring to guide typhoid vaccine campaigns.pdf){:target="_blank"}\
 <br>
 
-Elders, Akiko, Mark Caroll, Christopher Neigh, Anthony Louis D’Agostino, Christopher Ksoll, and Margaret Wooten. “Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-Day Sentinel-2.” *Remote Sensing Applications: Society and Environment*, vol. 27, 2022. [PDF](#){:target="_blank"}\
+0. Elders, Akiko, Mark Caroll, Christopher Neigh, Anthony Louis D’Agostino, Christopher Ksoll, and Margaret Wooten. “Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-Day Sentinel-2.” *Remote Sensing Applications: Society and Environment*, vol. 27, 2022. [PDF](https://a8dx.github.io/publications/Elders et al 2022.pdf){:target="_blank"}\
 <br>
 
-D’Agostino, Anthony Louis, and Wolfram Schlenker. “Recent Weather Fluctuations and Agricultural Yields: Implications for Climate Change.” *Agricultural Economics*, vol. 47, no. S1, 2016, pp. 159-171. [PDF](#){:target="_blank"}\
+0. D’Agostino, Anthony Louis, and Wolfram Schlenker. “Recent Weather Fluctuations and Agricultural Yields: Implications for Climate Change.” *Agricultural Economics*, vol. 47, no. S1, 2016, pp. 159-171. [PDF](https://a8dx.github.io/publications/DAgostino and Schlenker 2016.pdf){:target="_blank"}\
 <br>
 
-D’Agostino, Anthony Louis, Johannes Urpelainen, and Peter Lund. “The Business of Distributed Solar Power: A Comparative Case Study of Centralized Charging Stations and Solar Microgrids.” *Wiley Interdisciplinary Reviews: Energy and Environment*, vol. 5, no. 6, 2016, pp. 640-648. [PDF](#){:target="_blank"}\
+0. D’Agostino, Anthony Louis, Johannes Urpelainen, and Peter Lund. “The Business of Distributed Solar Power: A Comparative Case Study of Centralized Charging Stations and Solar Microgrids.” *Wiley Interdisciplinary Reviews: Energy and Environment*, vol. 5, no. 6, 2016, pp. 640-648. [PDF](){:target="_blank"}\
 <br>
 
-D’Agostino, Anthony Louis, Johannes Urpelainen, and Alice Xu. “Socio-Economic Determinants of Charcoal Expenditure in Tanzania.” *Energy Economics*, vol. 49, 2015, pp. 472-481. [PDF](#){:target="_blank"}\
+0. D’Agostino, Anthony Louis, Johannes Urpelainen, and Alice Xu. “Socio-Economic Determinants of Charcoal Expenditure in Tanzania.” *Energy Economics*, vol. 49, 2015, pp. 472-481. [PDF](#){:target="_blank"}\
 <br>
 
-Sovacool, Benjamin K., and Anthony L. D’Agostino. “A Comparative Analysis of Solar Home System Programmes in China, Laos, Mongolia, and Papua New Guinea.” *Progress in Development Studies*, vol. 12, no. 4, 2012, pp. 315-335. [PDF](#){:target="_blank"}\
+0. Sovacool, Benjamin K., and Anthony L. D’Agostino. “A Comparative Analysis of Solar Home System Programmes in China, Laos, Mongolia, and Papua New Guinea.” *Progress in Development Studies*, vol. 12, no. 4, 2012, pp. 315-335. [PDF](#){:target="_blank"}\
 <br>
 
-Bambawale, Malavika J., Anthony L. D’Agostino, and Benjamin K. Sovacool. “Realizing Rural Electrification in Southeast Asia: Lessons from Laos.” *Energy for Sustainable Development*, vol. 15, no. 1, 2011, pp. 41-48. [PDF](#){:target="_blank"}\
+0. Bambawale, Malavika J., Anthony L. D’Agostino, and Benjamin K. Sovacool. “Realizing Rural Electrification in Southeast Asia: Lessons from Laos.” *Energy for Sustainable Development*, vol. 15, no. 1, 2011, pp. 41-48. [PDF](#){:target="_blank"}\
 <br>
 
-Sovacool, Benjamin K., Anthony L. D’Agostino, and Malavika J. Bambawale. “The Socio-Technical Barriers to Solar Home Systems (SHS) in Papua New Guinea: ‘Choosing Pigs, Prostitutes, and Poker Chips over Panels.’” *Energy Policy*, vol. 39, no. 3, 2011, pp. 1532-1542. [PDF](#){:target="_blank"}\
+0. Sovacool, Benjamin K., Anthony L. D’Agostino, and Malavika J. Bambawale. “The Socio-Technical Barriers to Solar Home Systems (SHS) in Papua New Guinea: ‘Choosing Pigs, Prostitutes, and Poker Chips over Panels.’” *Energy Policy*, vol. 39, no. 3, 2011, pp. 1532-1542. [PDF](#){:target="_blank"}\
 <br>
 
-D’Agostino, Anthony L., Benjamin K. Sovacool, and Malavika J. Bambawale. “And Then What Happened? A Retrospective Appraisal of China’s Renewable Energy Development Project.” *Renewable Energy*, vol. 36, no. 11, 2011, pp. 3154-3165. [PDF](#){:target="_blank"}\
+0. D’Agostino, Anthony L., Benjamin K. Sovacool, and Malavika J. Bambawale. “And Then What Happened? A Retrospective Appraisal of China’s Renewable Energy Development Project.” *Renewable Energy*, vol. 36, no. 11, 2011, pp. 3154-3165. [PDF](#){:target="_blank"}\
 <br>
 
-D’Agostino, Anthony L., and Benjamin K. Sovacool. “Sowing Climate-Resilient Seeds: Implementing Climate Change Adaptation Best Practices in Rural Cambodia.” *Mitigation and Adaptation Strategies for Global Change*, vol. 16, no. 6, 2011, pp. 699-720. [PDF](#){:target="_blank"}\
+0. D’Agostino, Anthony L., and Benjamin K. Sovacool. “Sowing Climate-Resilient Seeds: Implementing Climate Change Adaptation Best Practices in Rural Cambodia.” *Mitigation and Adaptation Strategies for Global Change*, vol. 16, no. 6, 2011, pp. 699-720. [PDF](#){:target="_blank"}\
 <br>
 
-D’Agostino, Anthony Louis, Benjamin Sovacool, Kirsten Trott, Catherine Ramos, Saleena Saleem, and Yanchun Ong. “What’s the State of Energy Studies Research?: A Content Analysis of Three Leading Journals from 1999-2008.” *Energy*, vol. 36, no. 1, 2011, pp. 508-519. [PDF](#){:target="_blank"}\
+0. D’Agostino, Anthony Louis, Benjamin Sovacool, Kirsten Trott, Catherine Ramos, Saleena Saleem, and Yanchun Ong. “What’s the State of Energy Studies Research?: A Content Analysis of Three Leading Journals from 1999-2008.” *Energy*, vol. 36, no. 1, 2011, pp. 508-519. [PDF](#){:target="_blank"}\
 <br>
+
+{: reversed="reversed"}
 
 
 **Reports:**\
