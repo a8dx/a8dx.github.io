@@ -87,7 +87,7 @@ permalink: /research/
 <li>Griswold, Stacy, Evan Christo, Anthony D'Agostino, Dheeya Rizmie, Tom Bowen, and Tulika Narayan. "Scoping Review of a Climate Data Platform to Support Locally Led Adaptation." Report submitted to the Global Center on Adaptation. Washington, DC: Mathematica, August 2023.</li>
 <br>
 
-<li>D'Agostino, Anthony Louis, Edith Felix, Maarten Froeling, and Faraz Usmani. "Sustainable Land Use Finance for Self-Reliance in Ghana: Cost-Benefit Analysis Final Brief." Report submitted to USAID. Washington, DC: Mathematica, July 2023. <a href="" target="_blank">(PDF)</a></li>
+<li>D'Agostino, Anthony Louis, Edith Felix, Maarten Froeling, and Faraz Usmani. "Sustainable Land Use Finance for Self-Reliance in Ghana: Cost-Benefit Analysis Final Brief." Report submitted to USAID. Washington, DC: Mathematica, July 2023. <a href="/publications/Mathematica_Ghana%20SLUF%20CBA%20Brief_toCIAT_Final_toCIAT_07_12_2023-1.pdf" target="_blank">(PDF)</a></li>
 <br>
 
 <li>Ksoll, Christopher, Anthony Louis D'Agostino, Margo Berends, Sam Studnitzer, and Poorva Upadhyaya. "Niger Irrigation and Market Access Project Baseline Report—Part II: Dosso-Gaya Region." Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica, July 2023. <a href="" target="_blank">(PDF)</a></li>
